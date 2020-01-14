@@ -1,2 +1,2 @@
-# Karandin
-Karandin Audio Player
+# Jerkalp Player
+Jerkalp Audio Player
